@@ -1,0 +1,9 @@
+{
+  "contest": 86,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "FeeSplitter releaseTokens and releaseTokensNoETH batch transfers can fail for ERC20 tokens that do not allow zero value transfers",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-02-nested-findings/issues/29"
+}

@@ -2,7 +2,7 @@
   "contest": 86,
   "handle": "bobi",
   "address": "0x8F24B7bEe60c5421101e2e596b1008522368920F",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 45,
   "issueUrl": "https://github.com/code-423n4/2022-02-nested-findings/issues/45"

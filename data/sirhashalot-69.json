@@ -2,7 +2,7 @@
   "contest": 86,
   "handle": "sirhashalot",
   "address": "0x30cfB3B033dF25673b35Dc21a77329059d57a69b",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 69,
   "issueUrl": "https://github.com/code-423n4/2022-02-nested-findings/issues/69"
